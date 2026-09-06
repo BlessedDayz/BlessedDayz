@@ -1,16 +1,37 @@
-## Hi there 👋
+## Profile snapshot
 
-<!--
-**BlessedDayz/BlessedDayz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=blesseddayz&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F191271922%3Fv%3D4" alt="blesseddayz hero visual" />
+</p>
 
-Here are some ideas to get you started:
+**blesseddayz** · Product-minded developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About
+
+Building useful things and learning in public.
+
+- 👥 **0** followers · **0** following
+
+## Proof at a glance
+
+<table>
+<tr><td align="center"><b>0</b><br/><sub>repos</sub></td><td align="center"><b>0</b><br/><sub>stars</sub></td><td align="center"><b>0</b><br/><sub>contributions</sub></td></tr>
+</table>
+
+## Core toolkit
+
+No public language data yet — building the first project in the open.
+
+## Selected work
+
+Public projects are being indexed.
+
+## Let’s connect
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=blesseddayz&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F191271922%3Fv%3D4" alt="blesseddayz social visual" />
+</p>
+
+<a href="https://github.com/blesseddayz">GitHub</a>
+
+<p align="center"><sub>blesseddayz · Recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
