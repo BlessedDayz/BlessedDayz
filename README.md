@@ -4,11 +4,12 @@
   <img src="https://www.gitskins.com/api/section/hero?username=blesseddayz&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F191271922%3Fv%3D4" alt="blesseddayz hero visual" />
 </p>
 
-**blesseddayz** · Product-minded developer
+**blesseddayz** · Aspiring cyber-security specialist 
 
 ## About
 
-Building useful things and learning in public.
+💻 First-year IT student | Exploring code, web tech, & networks 🌐
+📚 Programming • Web Tech • Info Systems • Networks
 
 - 👥 **0** followers · **0** following
 
